@@ -91,8 +91,6 @@ Apple
 
 Amazon
 
-Adobe
-
 IBM
 
 Intel
