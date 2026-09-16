@@ -47,9 +47,13 @@ The project uses:
 The project uses the UCI PhiUSIIL Phishing URL (Website) dataset.
 
 235,795 instances
+
 54 features
+
 Raw URL available
+
 Binary classification
+
 No missing values
 
 Target
@@ -74,21 +78,55 @@ After removing exact duplicate URLs and training the model:
 The model was also tested on real websites including:
 
 Google
+
 GitHub
+
 Python
+
 Wikipedia
+
 Microsoft
+
 Apple
+
 Amazon
+
 Adobe
+
 IBM
+
 Intel
+
 NVIDIA
+
 LinkedIn
+
 Reddit
+
 Kun.uz
 
 Real-world testing showed that some legitimate websites can still be classified incorrectly.
+
 This demonstrates an important Machine Learning concept:
 High test-set performance does not always guarantee perfect real-world generalization.
+
+📁 Project Structure
+
+Can_I_Trust_This_URL/
+│
+
+├── phishing_url_detection.ipynb
+
+├── app.py
+
+├── phishing_url_model.pkl
+
+├── requirements.txt
+
+├── README.md
+
+│
+
+└── images/
+   └── img.png
 
