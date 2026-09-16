@@ -1,7 +1,7 @@
 # 🛡️ Can I Trust This URL?
 
 <p align="center">
-  <img src="screenshots/app.png" width="900">
+  <img src="images/img.png" width="900">
 </p>
 
 <h3 align="center">
