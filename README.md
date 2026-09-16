@@ -113,7 +113,6 @@ High test-set performance does not always guarantee perfect real-world generaliz
 📁 Project Structure
 
 Can_I_Trust_This_URL/
-│
 
 ├── phishing_url_detection.ipynb
 
@@ -125,8 +124,45 @@ Can_I_Trust_This_URL/
 
 ├── README.md
 
-│
-
 └── images/
+
    └── img.png
 
+
+⚙️ Installation
+
+git clone https://github.com/Suhrobjonibodullayev/Can_I_Trust_This_URL.git
+
+cd Can_I_Trust_This_URL
+
+pip install -r requirements.txt
+
+▶️ Run Locally
+
+streamlit run app.py
+
+🛠️ Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+TF-IDF
+
+Logistic Regression
+
+Joblib
+
+Streamlit
+
+Plotly
+
+👨‍💻 Author
+
+Suhrobjon Ibodullaev
+
+Machine Learning / Data Science Project
